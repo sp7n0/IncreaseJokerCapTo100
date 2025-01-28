@@ -6,7 +6,7 @@
 
 ----------------------------------------------
 ------------MOD CODE -------------------------
-local base_jokers = 10
+local base_jokers = 100
 
 local originalFuncRef = get_starting_params
 function get_starting_params()
